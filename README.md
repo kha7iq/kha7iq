@@ -4,4 +4,4 @@
 -   :monocle_face: Interested in everything **Cloud Native**
 -   :seedling: Currently learning **Golang**
 -   :heart: Open Source Software
--   :penguin: **Linux** ... If you somehow endup on Mars it will still work.
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds.
